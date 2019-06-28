@@ -1,5 +1,5 @@
 ## Controller Parameters:
-mass: 0.49
+mass: 0.494
 roll_time_constant: 0.306
 roll_gain: 1.159
 pitch_time_constant: 0.294
@@ -22,10 +22,10 @@ r_roll  : 50
 r_pitch : 50
 r_thrust : 1
 
-roll_max: deg(25.0)
-pitch_max: deg(25.0)
-thrust_min: 5
-thrust_max: 20
+roll_max: deg(45.0)
+pitch_max: deg(45.0)
+thrust_min: 0
+thrust_max: 30
 
 K_yaw: 1.8
 

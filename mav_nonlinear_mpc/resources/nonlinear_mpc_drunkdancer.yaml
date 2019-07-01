@@ -1,9 +1,9 @@
 ## Controller Parameters:
 mass: 0.494
 roll_time_constant: 0.306
-roll_gain: 1.159
+roll_gain: 1.484
 pitch_time_constant: 0.294
-pitch_gain: 1.139
+pitch_gain: 1.547
 linear_drag_coefficients: [0.01, 0.01, 0]
 
 # dynamic config default values:

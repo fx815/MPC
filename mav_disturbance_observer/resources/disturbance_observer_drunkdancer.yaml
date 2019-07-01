@@ -32,10 +32,10 @@ KF_observer:
   drag_coefficients : [ 0.010000 , 0.010000 , 0]
   roll_omega : 7.894
   roll_damping : 0.946
-  roll_gain : 0.949
+  roll_gain : 1.215
   pitch_omega : 7.518
   pitch_damping : 0.848
-  pitch_gain : 0.914
+  pitch_gain : 1.241
   yaw_omega : 15.127
   yaw_damping : 0.515
   yaw_gain : 1.000000
